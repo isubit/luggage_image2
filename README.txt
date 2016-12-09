@@ -15,7 +15,7 @@ An upgrade path from this to whatever future solution will not be developed.
 
 * We're sure there are unknown bugs.
 
-Use at your own risk.
+* Use at your own risk.
 
 Installation:
 
