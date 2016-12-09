@@ -1,0 +1,19 @@
+<?php
+/**
+ * @file
+ *
+ * Code for the luggage_image2 module
+ */
+
+/**
+ * Implements HOOK_ckeditor_plugin().
+ */
+function luggage_image2_ckeditor_plugin() {
+  return array(
+    'image2' => array(
+      'name' => 'image2',
+      'desc' => t('image2 CKEditor plugin'),
+      'path' => libraries_get_path('ckeditor') . '/plugins/image2/',
+    ),
+  );
+}
