@@ -21,7 +21,9 @@ Installation:
 
 * Enable luggage_image2
 
-* Enable image2 CKEditor plug at admin/config/content/ckeditor/edit/WYSIWYG
+* Enable image2 CKEditor plugin at admin/config/content/ckeditor/edit/WYSIWYG
+
+* Go to the WYSIWYG Filter Text format at admin/config/content/formats/wysiwyg
 
 * Add the following to the WYSIWYG Filter HTML elements and attributes:
 
